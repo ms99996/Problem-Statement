@@ -17,7 +17,7 @@ computer science project 1
   My proffesor- for a grade
   future employers: to show I have expeirence making games but also problem solving
 ### Timeline:
-  Week 1 : unity interface - 2 to 3 hours
+  Week 1 : unity interface - 2 to 3 hours<br>
   week 2 interactive tutorials- 3 hours
   week 3: begginer scripting- 40 min of videos, 2 hours on practice
   week 4: begginer scripting- 40 min of videos, 2 hours on practice
