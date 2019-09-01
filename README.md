@@ -1,6 +1,6 @@
 # Problem-Statement
 computer science project 1
-Goals:
+### Goals:
   Complete unity's begginer totorials 
 Scope:
   Unity interface, Interactive tutorials, begginer scripting, 2d game kit
