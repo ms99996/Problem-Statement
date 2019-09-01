@@ -2,21 +2,21 @@
 computer science project 1
 ### Goals:
   Complete unity's begginer totorials 
-Scope:
+### Scope:
   Unity interface, Interactive tutorials, begginer scripting, 2d game kit
-Succes criteria:
+### Succes criteria:
   creating my own 2d game using unity 
   displaying a weekly worklog using screen shot or files of my work 
-Constraints:
+### Constraints:
   I will be using the free version of unity's engine so my help will be limited to the totorial offered on their website
-Assumptions:
+### Assumptions:
   My pc's harware meet unity's requirments 
   my internet is stable 
   hurricane dorian wont affect me badly 
-Stakeholders:
+### Stakeholders:
   My proffesor- for a grade
   future employers: to show I have expeirence making games but also problem solving
-Timeline:
+### Timeline:
   Week 1 : unity interface - 2 to 3 hours
   week 2 interactive tutorials- 3 hours
   week 3: begginer scripting- 40 min of videos, 2 hours on practice
