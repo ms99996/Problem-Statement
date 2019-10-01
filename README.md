@@ -18,15 +18,15 @@ computer science project 1
   future employers: to show I have expeirence making games but also problem solving
 ### Timeline:
  
-   Chapter One : Why we Program? -2 hours
-   Chapter Two: Variables and Expressions -2 hours
-   Chapter Three: Conditional Code -2 hours
-   Chapter Five: Loops and Iteration -2 hours
-   Chapter Four: Functions -2 hours
-   Chapter Seven: Files -2 hours
-   Chapter Eight: Lists -2 hours
-   Chapter Six: Strings -2 hours
-   Chapter Nine: Dictionaries -2 hours
-   Chapter Ten: Tuples -2 hours
-   work on independent program -2 hours
-   Complete independent program -2 hours
+   Chapter One : Why we Program? -2 hours<br>
+   Chapter Two: Variables and Expressions -2 hours<br>
+   Chapter Three: Conditional Code -2 hours<br>
+   Chapter Five: Loops and Iteration -2 hours<br>
+   Chapter Four: Functions -2 hours<br>
+   Chapter Seven: Files -2 hours<br>
+   Chapter Eight: Lists -2 hours<br>
+   Chapter Six: Strings -2 hours<br>
+   Chapter Nine: Dictionaries -2 hours<br>
+   Chapter Ten: Tuples -2 hours<br>
+   work on independent program -2 hours<br>
+   Complete independent program -2 hours<br>
